@@ -4,7 +4,7 @@
 ### {{ section }}
 
 {% for repo, stats in section_data.items() %}
-<img src="{{ stats['owner']['avatar_url'] }} width="20px" alt="{{stats['owner']['login']}}">
+<img src="{{ stats['owner']['avatar_url'] }}" width="20px" alt="{{stats['owner']['login']}}">
 **[{{ stats["full_name"] }}]({{ stats["html_url"] }})**
 {% if stats["stargazers_count"] > 1 %}— :star: {{ stats["stargazers_count"] }}{% endif %}
 
