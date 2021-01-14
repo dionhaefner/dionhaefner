@@ -3,13 +3,13 @@
 {{ input_data.get('description') }}
 
 {% for section_data in input_data['sections'] %}
-#### {{ section_data['title'] }}
+### {{ section_data['title'] }}
 
 {{ section_data.get('description') }}
 
 {% for repo in section_data['repos'] %}
 {% set stats = get_stats(repo) %}
-<img src="{{ stats['owner']['avatar_url'] }}&s=16" alt="{{ stats['owner']['login'] }}">
+![{{ stats['owner']['login'] }}]({{ stats['owner']['avatar_url'] }}&s=16)
 <a href="{{ stats['owner']['url'] }}">
 <b>{{ stats['owner']['login'] }}</b>
 </a>
