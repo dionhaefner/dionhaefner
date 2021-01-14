@@ -1,18 +1,25 @@
 {
     "main-title": ":wave: hi there!",
+    "description": "Now that you have found the way to my profile, why don't you check out some of my projects?",
     "sections":
     [
         {
-            "title": "Currently maintaining",
-            "repos": ["team-ocean/veros", "DHI-GRAS/terracotta"]
+            "title": "Main projects",
+            "description": "These are bigger projects where I am a core developer.",
+            "repos": ["team-ocean/veros", "DHI-GRAS/terracotta", "PhilipVinc/mpi4jax"]
         },
         {
             "title": "Side projects",
-            "repos": ["dionhaefner/dionhaefner.github.io"]
+            "repos": ["pyhpc-benchmarks", "dionhaefner/dionhaefner.github.io"]
         },
         {
             "title": "Science applications",
-            "repos": ["dionhaefner/FOWD"]
+            "repos": ["dionhaefner/FOWD", "dionhaefner/cces-sem-botero"]
+        },
+        {
+            "title": "Misc",
+            "description": "One-off projects and everything else.",
+            "repos": ["dionsthesis", "pgfcache", "shallow-water", "attractive", "fly"]
         }
     ]
 }
