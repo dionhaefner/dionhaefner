@@ -49,7 +49,7 @@ if __name__ == "__main__":
 
     out = template.render(
         sections=section_stats,
-        meta=get_metadata()
+        meta=get_metadata(),
     )
 
     with open(OUT_FILE, "w") as f:
