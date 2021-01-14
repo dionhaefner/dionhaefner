@@ -3,13 +3,13 @@
 Now that you have found the way to my profile, why don't you check out some of my projects?
 
 
-#### Main projects
+### Main projects
 
 These are bigger projects where I am a core developer.
 
 
 
-<img src="https://avatars3.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean">
+![team-ocean](https://avatars3.githubusercontent.com/u/57774860?v=4&s=16)
 <a href="https://api.github.com/users/team-ocean">
 <b>team-ocean</b>
 </a>
@@ -23,7 +23,7 @@ These are bigger projects where I am a core developer.
 
 
 
-<img src="https://avatars2.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS">
+![DHI-GRAS](https://avatars2.githubusercontent.com/u/14074266?v=4&s=16)
 <a href="https://api.github.com/users/DHI-GRAS">
 <b>DHI-GRAS</b>
 </a>
@@ -37,7 +37,7 @@ These are bigger projects where I am a core developer.
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/2407108?v=4&s=16" alt="PhilipVinc">
+![PhilipVinc](https://avatars0.githubusercontent.com/u/2407108?v=4&s=16)
 <a href="https://api.github.com/users/PhilipVinc">
 <b>PhilipVinc</b>
 </a>
@@ -51,13 +51,13 @@ These are bigger projects where I am a core developer.
 
 
 
-#### Side projects
+### Side projects
 
 None
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -71,7 +71,7 @@ None
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -85,13 +85,13 @@ None
 
 
 
-#### Science applications
+### Science applications
 
 None
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -105,7 +105,7 @@ None
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -119,13 +119,13 @@ None
 
 
 
-#### Misc
+### Misc
 
 One-off projects and everything else.
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -139,7 +139,7 @@ One-off projects and everything else.
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -153,7 +153,7 @@ One-off projects and everything else.
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -167,7 +167,7 @@ One-off projects and everything else.
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -181,7 +181,7 @@ One-off projects and everything else.
 
 
 
-<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
