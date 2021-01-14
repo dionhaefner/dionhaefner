@@ -6,20 +6,36 @@
         {
             "title": "Main projects",
             "description": "These are bigger projects where I am a core developer.",
-            "repos": ["team-ocean/veros", "DHI-GRAS/terracotta", "PhilipVinc/mpi4jax"]
+            "repos": [
+                "team-ocean/veros", 
+                "DHI-GRAS/terracotta",
+                "PhilipVinc/mpi4jax"
+            ]
         },
         {
             "title": "Side projects",
-            "repos": ["pyhpc-benchmarks", "dionhaefner/dionhaefner.github.io"]
+            "repos": [
+                "dionhaefner/pyhpc-benchmarks", 
+                "dionhaefner/dionhaefner.github.io"
+            ]
         },
         {
             "title": "Science applications",
-            "repos": ["dionhaefner/FOWD", "dionhaefner/cces-sem-botero"]
+            "repos": [
+                "dionhaefner/FOWD", 
+                "dionhaefner/cces-sem-botero"
+            ]
         },
         {
             "title": "Misc",
             "description": "One-off projects and everything else.",
-            "repos": ["dionsthesis", "pgfcache", "shallow-water", "attractive", "fly"]
+            "repos": [
+                "dionhaefner/dionsthesis", 
+                "dionhaefner/pgfcache", 
+                "dionhaefner/shallow-water", 
+                "dionhaefner/attractive", 
+                "dionhaefner/fly"
+            ]
         }
     ]
 }

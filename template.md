@@ -1,4 +1,4 @@
-### Hi there :wave:
+### {{ input_data['main-title'] }}
 
 {{ input_data.get('description') }}
 

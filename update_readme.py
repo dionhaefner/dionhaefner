@@ -20,6 +20,7 @@ def query_repository_stats(full_repo):
     query_url = f"https://api.github.com/repos/{full_repo}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
     r = requests.get(query_url, headers=headers)
+    r.raise_for_status()
     return r.json()
 
 
