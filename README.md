@@ -1,11 +1,13 @@
 ### Hi there :wave:
 
-Now that you have found the way to my profile, why don't you check out some of my projects?
+Now that you're here, why don't you check out some of my projects?
 
 
-### Main projects
+---
 
-These are bigger projects where I am a core developer.
+#### Main projects
+
+(these are bigger projects where I am a core developer)
 
 
 
@@ -51,9 +53,11 @@ These are bigger projects where I am a core developer.
 
 
 
-### Side projects
+---
 
-None
+#### Side projects
+
+
 
 
 
@@ -85,9 +89,11 @@ None
 
 
 
-### Science applications
+---
 
-None
+#### Science applications
+
+
 
 
 
@@ -119,9 +125,11 @@ None
 
 
 
-### Misc
+---
 
-One-off projects and everything else.
+#### Misc
+
+(one-off projects and everything else)
 
 
 
