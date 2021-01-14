@@ -16,8 +16,8 @@ TEMPLATE_FILE = "template.md"
 OUT_FILE = "README.md"
 
 
-def query_repository_stats(owner, repo):
-    query_url = f"https://api.github.com/repos/{owner}/{repo}"
+def query_repository_stats(full_repo):
+    query_url = f"https://api.github.com/repos/{full_repo}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
     r = requests.get(query_url, headers=headers)
     return r.json()
@@ -25,7 +25,7 @@ def query_repository_stats(owner, repo):
 
 def get_metadata():
     return {
-        "time": datetime.datetime.now(),
+        "now": datetime.datetime.utcnow(),
         "self_url": SELF_URL,
     }
 
@@ -34,22 +34,13 @@ if __name__ == "__main__":
     with open(INPUT_FILE, "r") as f:
         input_data = json.load(f)
 
-    section_stats = {}
-    for section in input_data["sections"]:
-        repo_stats = {}
-
-        for repo in section["repos"]:
-            owner, repo_name = repo.split("/")
-            repo_stats[repo] = query_repository_stats(owner, repo_name)
-            
-        section_stats[section["title"]] = repo_stats
-
     with open(TEMPLATE_FILE, "r") as f:
         template = Template(f.read())
 
     out = template.render(
-        sections=section_stats,
+        input_data=input_data,
         meta=get_metadata(),
+        get_stats=query_repository_stats,
     )
 
     with open(OUT_FILE, "w") as f:

@@ -1,16 +1,27 @@
 ### Hi there :wave:
 
-{% for section, section_data in sections.items() %}
-#### {{ section }}
+{% for section_data in input_data['sections'] %}
+#### {{ section_data['title'] }}
 
-{% for repo, stats in section_data.items() %}
-![{{ stats['owner']['login'] }}]({{ stats['owner']['avatar_url'] }}&s=24)
-**[{{ stats["full_name"] }}]({{ stats["html_url"] }})**
-{% if stats["stargazers_count"] > 1 %}— :star: {{ stats["stargazers_count"] }}{% endif %}
+{% for repo in section_data['repos'] %}
+{% set stats = get_stats(repo) %}
+<a href="{{ stats['owner']['url'] }}">
+<img src="{{ stats['owner']['avatar_url'] }}&s=16" alt="{{ stats['owner']['login'] }}">
+<b>{{ stats['owner']['login'] }}</b>
+</a>
+/
+<a href="stats['html_url']">
+<b>{{ stats['name'] }}</b>
+</a>
+{% if stats['stargazers_count'] > 1 %} — :star: {{ stats['stargazers_count'] }}{% endif %}
 
-{{ stats["description"] }}
+> {{ stats['description'] }}
 
 {% endfor %}
 {% endfor %}
 
-[Last updated {{ meta["time"].strftime("%Y-%m-%d") }}]({{ meta["self_url"] }})
+<p align="right">
+<sub>
+<a href="({{ meta['self_url'] }}">Last updated {{ meta['now'].strftime('%Y-%m-%d') }}
+</sub>
+</p>
