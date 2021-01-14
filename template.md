@@ -1,11 +1,13 @@
 ### {{ input_data['main-title'] }}
 
-{{ input_data.get('description') }}
+{{ input_data.get('description', '') }}
 
 {% for section_data in input_data['sections'] %}
-### {{ section_data['title'] }}
+---
 
-{{ section_data.get('description') }}
+#### {{ section_data['title'] }}
+
+{{ section_data.get('description', '') }}
 
 {% for repo in section_data['repos'] %}
 {% set stats = get_stats(repo) %}

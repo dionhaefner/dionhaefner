@@ -1,11 +1,11 @@
 {
     "main-title": "Hi there :wave:",
-    "description": "Now that you have found the way to my profile, why don't you check out some of my projects?",
+    "description": "Now that you're here, why don't you check out some of my projects?",
     "sections":
     [
         {
             "title": "Main projects",
-            "description": "These are bigger projects where I am a core developer.",
+            "description": "(these are bigger projects where I am a core developer)",
             "repos": [
                 "team-ocean/veros", 
                 "DHI-GRAS/terracotta",
@@ -28,7 +28,7 @@
         },
         {
             "title": "Misc",
-            "description": "One-off projects and everything else.",
+            "description": "(one-off projects and everything else)",
             "repos": [
                 "dionhaefner/dionsthesis", 
                 "dionhaefner/pgfcache", 
