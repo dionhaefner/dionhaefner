@@ -42,4 +42,4 @@ Repository for my personal homepage, hosted on GitHub Pages, created with Pelica
 
 
 
-[Last updated 2021-01-14 16:17](https://github.com/dionhaefner/dionhaefner)
+[Last updated 2021-01-14 16:23](https://github.com/dionhaefner/dionhaefner)
