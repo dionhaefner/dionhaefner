@@ -1,16 +1,20 @@
 ### Hi there :wave:
 
-
-#### Currently maintaining
-
+Now that you have found the way to my profile, why don't you check out some of my projects?
 
 
-<a href="https://api.github.com/users/team-ocean">
+#### Main projects
+
+These are bigger projects where I am a core developer.
+
+
+
 <img src="https://avatars3.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean">
+<a href="https://api.github.com/users/team-ocean">
 <b>team-ocean</b>
 </a>
 /
-<a href="stats['html_url']">
+<a href="https://github.com/team-ocean/veros">
 <b>veros</b>
 </a>
  — :star: 133
@@ -19,12 +23,12 @@
 
 
 
-<a href="https://api.github.com/users/DHI-GRAS">
 <img src="https://avatars2.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS">
+<a href="https://api.github.com/users/DHI-GRAS">
 <b>DHI-GRAS</b>
 </a>
 /
-<a href="stats['html_url']">
+<a href="https://github.com/DHI-GRAS/terracotta">
 <b>terracotta</b>
 </a>
  — :star: 211
@@ -33,16 +37,46 @@
 
 
 
+<img src="https://avatars0.githubusercontent.com/u/2407108?v=4&s=16" alt="PhilipVinc">
+<a href="https://api.github.com/users/PhilipVinc">
+<b>PhilipVinc</b>
+</a>
+/
+<a href="https://github.com/PhilipVinc/mpi4jax">
+<b>mpi4jax</b>
+</a>
+ — :star: 36
+
+> MPI greets Jax and speeds it ups
+
+
+
 #### Side projects
 
+None
 
 
-<a href="https://api.github.com/users/dionhaefner">
+
 <img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
 /
-<a href="stats['html_url']">
+<a href="https://github.com/dionhaefner/pyhpc-benchmarks">
+<b>pyhpc-benchmarks</b>
+</a>
+ — :star: 111
+
+> A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
+
+
+
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/dionhaefner.github.io">
 <b>dionhaefner.github.io</b>
 </a>
 
@@ -53,14 +87,16 @@
 
 #### Science applications
 
+None
 
 
-<a href="https://api.github.com/users/dionhaefner">
+
 <img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
 /
-<a href="stats['html_url']">
+<a href="https://github.com/dionhaefner/FOWD">
 <b>FOWD</b>
 </a>
 
@@ -69,9 +105,99 @@
 
 
 
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/cces-sem-botero">
+<b>cces-sem-botero</b>
+</a>
+
+
+> Group work for the seminary Chaotic, Complex and Evolving Systems
+
+
+
+#### Misc
+
+One-off projects and everything else.
+
+
+
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/dionsthesis">
+<b>dionsthesis</b>
+</a>
+ — :star: 7
+
+> Custom LaTeX2e documentclass for typesetting beautiful, modern theses.
+
+
+
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/pgfcache">
+<b>pgfcache</b>
+</a>
+ — :star: 7
+
+> LaTeX package providing a caching solution for PGF figures created with Matplotlib similar to tikz-externalize
+
+
+
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/shallow-water">
+<b>shallow-water</b>
+</a>
+
+
+> Powerful shallow-water implementations in pure Python
+
+
+
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/attractive">
+<b>attractive</b>
+</a>
+
+
+> Compute and plot beautiful Clifford Attractors 💫
+
+
+
+<img src="https://avatars0.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner">
+<a href="https://api.github.com/users/dionhaefner">
+<b>dionhaefner</b>
+</a>
+/
+<a href="https://github.com/dionhaefner/fly">
+<b>fly</b>
+</a>
+ — :star: 6
+
+> An interactive geophysical flow visualizer in Python.
+
+
+
 
 <p align="right">
 <sub>
-<a href="(https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-14
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-14</a>
 </sub>
 </p>
