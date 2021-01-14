@@ -13,14 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
       - name: Install dependenciies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Update README
         run: python update_readme.py
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit files
         run: |

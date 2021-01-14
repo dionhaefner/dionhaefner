@@ -1,0 +1,18 @@
+{
+    "main-title": ":wave: hi there!",
+    "sections":
+    [
+        {
+            "title": "Currently maintaining",
+            "repos": ["team-ocean/veros", "DHI-GRAS/terracotta"]
+        },
+        {
+            "title": "Side projects",
+            "repos": ["dionhaefner/dionhaefner.github.io"]
+        },
+        {
+            "title": "Science applications",
+            "repos": ["dionhaefner/FOWD"]
+        }
+    ]
+}
