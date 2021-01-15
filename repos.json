@@ -5,7 +5,7 @@
     [
         {
             "title": "Main projects",
-            "description": "(these are bigger projects where I am a core developer)",
+            "description": "(bigger projects where I am a core developer)",
             "repos": [
                 "team-ocean/veros", 
                 "DHI-GRAS/terracotta",

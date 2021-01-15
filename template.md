@@ -7,7 +7,8 @@
 
 #### {{ section_data['title'] }}
 
-{{ section_data.get('description', '') }}
+{% if 'description' in section_data %}
+<sup><i>{{ section_data['description'] }}</i></sup>
 
 {% for repo in section_data['repos'] %}
 {% set stats = get_stats(repo) %}
