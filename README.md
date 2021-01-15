@@ -7,7 +7,9 @@ Now that you're here, why don't you check out some of my projects?
 
 #### Main projects
 
-(these are bigger projects where I am a core developer)
+
+<sup><i>(bigger projects where I am a core developer)</i></sup>
+
 
 
 
@@ -129,7 +131,9 @@ Now that you're here, why don't you check out some of my projects?
 
 #### Misc
 
-(one-off projects and everything else)
+
+<sup><i>(one-off projects and everything else)</i></sup>
+
 
 
 
