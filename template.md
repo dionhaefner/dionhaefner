@@ -9,6 +9,7 @@
 
 {% if 'description' in section_data %}
 <sup><i>{{ section_data['description'] }}</i></sup>
+{% endif %}
 
 {% for repo in section_data['repos'] %}
 {% set stats = get_stats(repo) %}
