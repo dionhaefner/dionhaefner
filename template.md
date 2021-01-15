@@ -5,7 +5,7 @@
 {% for section_data in input_data['sections'] %}
 ---
 
-#### {{ section_data['title'] }}
+### {{ section_data['title'] }}
 
 {% if 'description' in section_data %}
 <sup><i>{{ section_data['description'] }}</i></sup>
