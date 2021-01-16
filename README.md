@@ -5,7 +5,7 @@ Now that you're here, why don't you check out some of my projects?
 
 ---
 
-#### Main projects
+### Main projects
 
 
 <sup><i>(bigger projects where I am a core developer)</i></sup>
@@ -57,7 +57,7 @@ Now that you're here, why don't you check out some of my projects?
 
 ---
 
-#### Side projects
+### Side projects
 
 
 
@@ -93,7 +93,7 @@ Now that you're here, why don't you check out some of my projects?
 
 ---
 
-#### Science applications
+### Science applications
 
 
 
@@ -129,7 +129,7 @@ Now that you're here, why don't you check out some of my projects?
 
 ---
 
-#### Misc
+### Misc
 
 
 <sup><i>(one-off projects and everything else)</i></sup>
@@ -210,6 +210,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-15</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-16</a>
 </sub>
 </p>
