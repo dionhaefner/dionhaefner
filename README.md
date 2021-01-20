@@ -21,7 +21,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/team-ocean/veros">
 <b>veros</b>
 </a>
- — :star: 133
+ — :star: 134
 
 > The versatile ocean simulator, in pure Python, powered by Bohrium.
 
@@ -71,7 +71,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks">
 <b>pyhpc-benchmarks</b>
 </a>
- — :star: 111
+ — :star: 112
 
 > A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
 
@@ -210,6 +210,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-19</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-20</a>
 </sub>
 </p>
