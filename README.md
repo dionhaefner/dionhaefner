@@ -13,7 +13,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![team-ocean](https://avatars3.githubusercontent.com/u/57774860?v=4&s=16)
+![team-ocean](https://avatars.githubusercontent.com/u/57774860?v=4&s=16)
 <a href="https://api.github.com/users/team-ocean">
 <b>team-ocean</b>
 </a>
@@ -27,7 +27,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![DHI-GRAS](https://avatars2.githubusercontent.com/u/14074266?v=4&s=16)
+![DHI-GRAS](https://avatars.githubusercontent.com/u/14074266?v=4&s=16)
 <a href="https://api.github.com/users/DHI-GRAS">
 <b>DHI-GRAS</b>
 </a>
@@ -41,7 +41,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![PhilipVinc](https://avatars0.githubusercontent.com/u/2407108?v=4&s=16)
+![PhilipVinc](https://avatars.githubusercontent.com/u/2407108?v=4&s=16)
 <a href="https://api.github.com/users/PhilipVinc">
 <b>PhilipVinc</b>
 </a>
@@ -63,7 +63,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -77,7 +77,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -99,7 +99,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -113,7 +113,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -137,7 +137,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -151,7 +151,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -165,7 +165,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -179,7 +179,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -193,7 +193,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![dionhaefner](https://avatars0.githubusercontent.com/u/11994217?v=4&s=16)
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
 <a href="https://api.github.com/users/dionhaefner">
 <b>dionhaefner</b>
 </a>
@@ -210,6 +210,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-21</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-22</a>
 </sub>
 </p>
