@@ -21,7 +21,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/team-ocean/veros">
 <b>veros</b>
 </a>
- — :star: 134
+ — :star: 135
 
 > The versatile ocean simulator, in pure Python, powered by Bohrium.
 
@@ -210,6 +210,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-27</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-01-28</a>
 </sub>
 </p>
