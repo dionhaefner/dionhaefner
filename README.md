@@ -49,7 +49,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/PhilipVinc/mpi4jax">
 <b>mpi4jax</b>
 </a>
- — :star: 37
+ — :star: 38
 
 > MPI greets Jax and speeds it ups
 
@@ -210,6 +210,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-02-03</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-02-04</a>
 </sub>
 </p>
