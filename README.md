@@ -35,7 +35,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/DHI-GRAS/terracotta">
 <b>terracotta</b>
 </a>
- — :star: 216
+ — :star: 217
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -49,7 +49,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/PhilipVinc/mpi4jax">
 <b>mpi4jax</b>
 </a>
- — :star: 44
+ — :star: 46
 
 > MPI greets Jax and speeds it ups
 
@@ -71,7 +71,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks">
 <b>pyhpc-benchmarks</b>
 </a>
- — :star: 115
+ — :star: 117
 
 > A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
 
@@ -210,6 +210,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-02-24</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-02-25</a>
 </sub>
 </p>
