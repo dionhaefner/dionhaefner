@@ -14,27 +14,19 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![team-ocean](https://avatars.githubusercontent.com/u/57774860?v=4&s=16)
-<a href="https://api.github.com/users/team-ocean">
-<b>team-ocean</b>
-</a>
+<a href="https://api.github.com/users/team-ocean"><b>team-ocean</b></a>
 /
-<a href="https://github.com/team-ocean/veros">
-<b>veros</b>
-</a>
- — :star: 136
+<a href="https://github.com/team-ocean/veros"><b>veros</b></a>
+ — :star: 135
 
 > The versatile ocean simulator, in pure Python, powered by Bohrium.
 
 
 
 ![DHI-GRAS](https://avatars.githubusercontent.com/u/14074266?v=4&s=16)
-<a href="https://api.github.com/users/DHI-GRAS">
-<b>DHI-GRAS</b>
-</a>
+<a href="https://api.github.com/users/DHI-GRAS"><b>DHI-GRAS</b></a>
 /
-<a href="https://github.com/DHI-GRAS/terracotta">
-<b>terracotta</b>
-</a>
+<a href="https://github.com/DHI-GRAS/terracotta"><b>terracotta</b></a>
  — :star: 218
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
@@ -42,13 +34,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![PhilipVinc](https://avatars.githubusercontent.com/u/2407108?v=4&s=16)
-<a href="https://api.github.com/users/PhilipVinc">
-<b>PhilipVinc</b>
-</a>
+<a href="https://api.github.com/users/PhilipVinc"><b>PhilipVinc</b></a>
 /
-<a href="https://github.com/PhilipVinc/mpi4jax">
-<b>mpi4jax</b>
-</a>
+<a href="https://github.com/PhilipVinc/mpi4jax"><b>mpi4jax</b></a>
  — :star: 46
 
 > MPI greets Jax and speeds it ups
@@ -64,13 +52,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/pyhpc-benchmarks">
-<b>pyhpc-benchmarks</b>
-</a>
+<a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>pyhpc-benchmarks</b></a>
  — :star: 118
 
 > A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
@@ -78,13 +62,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/dionhaefner.github.io">
-<b>dionhaefner.github.io</b>
-</a>
+<a href="https://github.com/dionhaefner/dionhaefner.github.io"><b>dionhaefner.github.io</b></a>
 
 
 > Repository for my personal homepage, hosted on GitHub Pages, created with Pelican.
@@ -100,13 +80,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/FOWD">
-<b>FOWD</b>
-</a>
+<a href="https://github.com/dionhaefner/FOWD"><b>FOWD</b></a>
 
 
 > :ocean: Processing framework for FOWD, a free ocean wave dataset, ready for your ML application.
@@ -114,13 +90,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/cces-sem-botero">
-<b>cces-sem-botero</b>
-</a>
+<a href="https://github.com/dionhaefner/cces-sem-botero"><b>cces-sem-botero</b></a>
 
 
 > Group work for the seminary Chaotic, Complex and Evolving Systems
@@ -138,13 +110,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/dionsthesis">
-<b>dionsthesis</b>
-</a>
+<a href="https://github.com/dionhaefner/dionsthesis"><b>dionsthesis</b></a>
  — :star: 7
 
 > Custom LaTeX2e documentclass for typesetting beautiful, modern theses.
@@ -152,13 +120,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/pgfcache">
-<b>pgfcache</b>
-</a>
+<a href="https://github.com/dionhaefner/pgfcache"><b>pgfcache</b></a>
  — :star: 7
 
 > LaTeX package providing a caching solution for PGF figures created with Matplotlib similar to tikz-externalize
@@ -166,13 +130,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/shallow-water">
-<b>shallow-water</b>
-</a>
+<a href="https://github.com/dionhaefner/shallow-water"><b>shallow-water</b></a>
 
 
 > Powerful shallow-water implementations in pure Python
@@ -180,13 +140,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/attractive">
-<b>attractive</b>
-</a>
+<a href="https://github.com/dionhaefner/attractive"><b>attractive</b></a>
 
 
 > Compute and plot beautiful Clifford Attractors 💫
@@ -194,13 +150,9 @@ Now that you're here, why don't you check out some of my projects?
 
 
 ![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
-<a href="https://api.github.com/users/dionhaefner">
-<b>dionhaefner</b>
-</a>
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
-<a href="https://github.com/dionhaefner/fly">
-<b>fly</b>
-</a>
+<a href="https://github.com/dionhaefner/fly"><b>fly</b></a>
  — :star: 5
 
 > An interactive geophysical flow visualizer in Python.
@@ -210,6 +162,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-03</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-04</a>
 </sub>
 </p>
