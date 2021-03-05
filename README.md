@@ -27,7 +27,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://api.github.com/users/DHI-GRAS"><b>DHI-GRAS</b></a>
 /
 <a href="https://github.com/DHI-GRAS/terracotta"><b>terracotta</b></a>
- — :star: 218
+ — :star: 219
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -39,7 +39,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/PhilipVinc/mpi4jax"><b>mpi4jax</b></a>
  — :star: 46
 
-> MPI greets Jax and speeds it ups
+> MPI greets Jax and speeds it up
 
 
 
@@ -162,6 +162,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-04</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-05</a>
 </sub>
 </p>
