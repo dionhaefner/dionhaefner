@@ -17,7 +17,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://api.github.com/users/team-ocean"><b>team-ocean</b></a>
 /
 <a href="https://github.com/team-ocean/veros"><b>veros</b></a>
- — :star: 135
+ — :star: 136
 
 > The versatile ocean simulator, in pure Python, powered by Bohrium.
 
@@ -123,7 +123,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/pgfcache"><b>pgfcache</b></a>
- — :star: 7
+ — :star: 8
 
 > LaTeX package providing a caching solution for PGF figures created with Matplotlib similar to tikz-externalize
 
@@ -162,6 +162,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-18</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-19</a>
 </sub>
 </p>
