@@ -9,7 +9,7 @@
             "repos": [
                 "team-ocean/veros", 
                 "DHI-GRAS/terracotta",
-                "PhilipVinc/mpi4jax"
+                "mpi4jax/mpi4jax"
             ]
         },
         {
