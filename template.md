@@ -1,3 +1,5 @@
+<!-- This file is auto-generated. Do not edit! -->
+
 ### {{ input_data['main-title'] }}
 
 {{ input_data.get('description', '') }}
