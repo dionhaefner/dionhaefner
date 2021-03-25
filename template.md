@@ -15,7 +15,7 @@
 
 {% for repo in section_data['repos'] %}
 {% set stats = get_stats(repo) %}
-<a href="{{ stats['owner']['login'] }}"><img src="{{ stats['owner']['avatar_url'] }}&s=16" style="width: 16px"></a>
+<a href="{{ stats['owner']['login'] }}"><img src="{{ stats['owner']['avatar_url'] }}&s=16" width="16"></a>
 <a href="{{ stats['owner']['url'] }}"><b>{{ stats['owner']['login'] }}</b></a>
 /
 <a href="{{ stats['html_url'] }}"><b>{{ stats['name'] }}</b></a>
