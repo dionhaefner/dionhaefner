@@ -30,6 +30,7 @@
             "title": "Misc",
             "description": "(one-off projects and everything else)",
             "repos": [
+                "dionhaefner/yahtzotron",
                 "dionhaefner/dionsthesis", 
                 "dionhaefner/pgfcache", 
                 "dionhaefner/shallow-water", 
