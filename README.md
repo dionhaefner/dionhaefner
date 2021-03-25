@@ -15,7 +15,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16">
 <a href="https://api.github.com/users/team-ocean"><b>team-ocean</b></a>
 /
 <a href="https://github.com/team-ocean/veros"><b>veros</b></a>
@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="DHI-GRAS"><img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16">
 <a href="https://api.github.com/users/DHI-GRAS"><b>DHI-GRAS</b></a>
 /
 <a href="https://github.com/DHI-GRAS/terracotta"><b>terracotta</b></a>
@@ -35,7 +35,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16">
 <a href="https://api.github.com/users/mpi4jax"><b>mpi4jax</b></a>
 /
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b></a>
@@ -53,7 +53,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>pyhpc-benchmarks</b></a>
@@ -63,7 +63,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/dionhaefner.github.io"><b>dionhaefner.github.io</b></a>
@@ -81,7 +81,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/FOWD"><b>FOWD</b></a>
@@ -91,7 +91,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/cces-sem-botero"><b>cces-sem-botero</b></a>
@@ -111,7 +111,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/yahtzotron"><b>yahtzotron</b></a>
@@ -121,7 +121,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/dionsthesis"><b>dionsthesis</b></a>
@@ -131,7 +131,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/pgfcache"><b>pgfcache</b></a>
@@ -141,7 +141,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/shallow-water"><b>shallow-water</b></a>
@@ -151,7 +151,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/attractive"><b>attractive</b></a>
@@ -161,7 +161,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" width="16"></a>
+<img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16">
 <a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/fly"><b>fly</b></a>
