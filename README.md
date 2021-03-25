@@ -1,3 +1,5 @@
+<!-- This file is auto-generated. Do not edit! -->
+
 ### Hi there :wave:
 
 Now that you're here, why don't you check out some of my projects?
@@ -33,13 +35,13 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-![PhilipVinc](https://avatars.githubusercontent.com/u/2407108?v=4&s=16)
-<a href="https://api.github.com/users/PhilipVinc"><b>PhilipVinc</b></a>
+![mpi4jax](https://avatars.githubusercontent.com/u/81360121?v=4&s=16)
+<a href="https://api.github.com/users/mpi4jax"><b>mpi4jax</b></a>
 /
-<a href="https://github.com/PhilipVinc/mpi4jax"><b>mpi4jax</b></a>
+<a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b></a>
  — :star: 49
 
-> MPI greets Jax and speeds it up
+> Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
 
 
@@ -95,7 +97,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/cces-sem-botero"><b>cces-sem-botero</b></a>
 
 
-> Group work for the seminary Chaotic, Complex and Evolving Systems
+> Python implementation of the Botero et al., 2015 evolutionary tipping point model.
 
 
 
@@ -106,6 +108,16 @@ Now that you're here, why don't you check out some of my projects?
 
 <sup><i>(one-off projects and everything else)</i></sup>
 
+
+
+
+![dionhaefner](https://avatars.githubusercontent.com/u/11994217?v=4&s=16)
+<a href="https://api.github.com/users/dionhaefner"><b>dionhaefner</b></a>
+/
+<a href="https://github.com/dionhaefner/yahtzotron"><b>yahtzotron</b></a>
+
+
+> The friendly robot that beats you in Yahtzee.
 
 
 
