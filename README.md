@@ -107,7 +107,7 @@ Now that you're here, why don't you check out some of my projects?
 <img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"> <a href="https://github.com/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/yahtzotron"><b>yahtzotron</b></a>
- — :star: 2
+ — :star: 3
 
 > The friendly robot that beats you in Yahtzee.
 
@@ -161,6 +161,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-29</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-30</a>
 </sub>
 </p>
