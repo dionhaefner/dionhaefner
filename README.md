@@ -27,7 +27,7 @@ Now that you're here, why don't you check out some of my projects?
 <img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16"> <a href="https://github.com/DHI-GRAS"><b>DHI-GRAS</b></a>
 /
 <a href="https://github.com/DHI-GRAS/terracotta"><b>terracotta</b></a>
- — :star: 222
+ — :star: 223
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -53,7 +53,7 @@ Now that you're here, why don't you check out some of my projects?
 <img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"> <a href="https://github.com/dionhaefner"><b>dionhaefner</b></a>
 /
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>pyhpc-benchmarks</b></a>
- — :star: 121
+ — :star: 122
 
 > A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
 
@@ -161,6 +161,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-03-31</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-01</a>
 </sub>
 </p>
