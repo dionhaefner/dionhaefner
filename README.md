@@ -27,7 +27,7 @@ Now that you're here, why don't you check out some of my projects?
 <img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16"> <a href="https://github.com/DHI-GRAS"><b>DHI-GRAS</b></a>
 /
 <a href="https://github.com/DHI-GRAS/terracotta"><b>terracotta</b></a>
- — :star: 225
+ — :star: 226
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -36,7 +36,7 @@ Now that you're here, why don't you check out some of my projects?
 <img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"> <a href="https://github.com/mpi4jax"><b>mpi4jax</b></a>
 /
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b></a>
- — :star: 53
+ — :star: 54
 
 > Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
@@ -161,6 +161,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-12</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-13</a>
 </sub>
 </p>
