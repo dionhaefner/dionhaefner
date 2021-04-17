@@ -18,7 +18,7 @@ Now that you're here, why don't you check out some of my projects?
 <img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"> <a href="https://github.com/team-ocean"><b>team-ocean</b></a>
 /
 <a href="https://github.com/team-ocean/veros"><b>veros</b></a>
- — :star: 138
+ — :star: 139
 
 > The versatile ocean simulator, in pure Python, powered by Bohrium.
 
@@ -161,6 +161,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-16</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-17</a>
 </sub>
 </p>
