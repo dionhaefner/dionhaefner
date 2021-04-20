@@ -15,9 +15,8 @@
 
 {% for repo in section_data['repos'] %}
 {% set stats = get_stats(repo) %}
-<img src="{{ stats['owner']['avatar_url'] }}&s=16" alt="{{ stats['owner']['login'] }}" width="16"> <a href="{{ stats['owner']['html_url'] }}"><b>{{ stats['owner']['login'] }}</b></a>
-/
-<a href="{{ stats['html_url'] }}"><b>{{ stats['name'] }}</b></a>
+<a href="{{ stats['owner']['html_url'] }}"><img src="{{ stats['owner']['avatar_url'] }}&s=16" alt="{{ stats['owner']['login'] }}" width="16"></a>
+<a href="{{ stats['html_url'] }}"><b>{{ stats['owner']['login'] }}</b> / <b>{{ stats['name'] }}</b></a>
 {% if stats['stargazers_count'] > 1 %} — :star: {{ stats['stargazers_count'] }}{% endif %}
 
 > {{ stats['description'] }}
