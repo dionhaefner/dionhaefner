@@ -148,6 +148,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-25</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-04-26</a>
 </sub>
 </p>
