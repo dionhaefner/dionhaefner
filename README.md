@@ -17,9 +17,9 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"></a>
 <a href="https://github.com/team-ocean/veros"><b>team-ocean</b> / <b>veros</b></a>
- — :star: 136
+ — :star: 137
 
-> The versatile ocean simulator, in pure Python, powered by Bohrium.
+> The versatile ocean simulator, in pure Python, powered by JAX.
 
 
 
@@ -49,7 +49,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>dionhaefner</b> / <b>pyhpc-benchmarks</b></a>
- — :star: 128
+ — :star: 129
 
 > A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
 
@@ -148,6 +148,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-05-26</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-05-27</a>
 </sub>
 </p>
