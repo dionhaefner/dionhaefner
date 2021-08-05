@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI-GRAS"><img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16"></a>
 <a href="https://github.com/DHI-GRAS/terracotta"><b>DHI-GRAS</b> / <b>terracotta</b></a>
- — :star: 398
+ — :star: 399
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -73,7 +73,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
- — :star: 2
+ — :star: 3
 
 > :ocean: Processing framework for FOWD, a free ocean wave dataset, ready for your ML application.
 
@@ -148,6 +148,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-08-04</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-08-05</a>
 </sub>
 </p>
