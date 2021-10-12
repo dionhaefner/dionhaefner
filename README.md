@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI-GRAS"><img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16"></a>
 <a href="https://github.com/DHI-GRAS/terracotta"><b>DHI-GRAS</b> / <b>terracotta</b></a>
- — :star: 415
+ — :star: 416
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -51,7 +51,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>dionhaefner</b> / <b>pyhpc-benchmarks</b></a>
  — :star: 157
 
-> A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python.
+> A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python :rocket:
 
 
 
@@ -75,7 +75,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
  — :star: 3
 
-> :ocean: Processing framework for FOWD, a free ocean wave dataset, ready for your ML application.
+> Processing framework for FOWD, a free ocean wave dataset, ready for your ML application :ocean:
 
 
 
@@ -109,7 +109,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/yahtzotron"><b>dionhaefner</b> / <b>yahtzotron</b></a>
  — :star: 5
 
-> The friendly robot that beats you in Yahtzee.
+> The friendly robot that beats you in Yahtzee  🤖 🎲
 
 
 
@@ -156,6 +156,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-10-11</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-10-12</a>
 </sub>
 </p>
