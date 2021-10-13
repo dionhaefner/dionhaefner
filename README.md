@@ -51,7 +51,7 @@ Now that you're here, why don't you check out some of my projects?
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>dionhaefner</b> / <b>pyhpc-benchmarks</b></a>
  — :star: 157
 
-> A suite of benchmarks to test the sequential CPU and GPU performance of most popular high-performance libraries for Python :rocket:
+> A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python :rocket:
 
 
 
@@ -156,6 +156,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-10-12</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2021-10-13</a>
 </sub>
 </p>
