@@ -30,6 +30,7 @@
             "title": "Misc",
             "description": "(one-off projects and everything else)",
             "repos": [
+                "dionhaefner/cv",
                 "dionhaefner/bayesian-histograms",
                 "dionhaefner/yahtzotron",
                 "dionhaefner/dionsthesis", 
