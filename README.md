@@ -98,8 +98,16 @@ Now that you're here, why don't you check out some of my projects?
 
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner/cv"><b>dionhaefner</b> / <b>cv</b></a>
+
+
+> My personal CV and résumé, auto-generated via GitHub Actions :page_facing_up:
+
+
+
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/bayesian-histograms"><b>dionhaefner</b> / <b>bayesian-histograms</b></a>
- — :star: 17
+ — :star: 18
 
 > Bayesian histograms for estimation of binary rare event rates, with fully automated bin pruning :bar_chart:
 
