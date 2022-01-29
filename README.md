@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"></a>
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b> / <b>mpi4jax</b></a>
- — :star: 140
+ — :star: 141
 
 > Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
@@ -147,7 +147,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/attractive"><b>dionhaefner</b> / <b>attractive</b></a>
- — :star: 2
+ — :star: 3
 
 > Compute and plot beautiful Clifford Attractors 💫
 
@@ -155,7 +155,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/fly"><b>dionhaefner</b> / <b>fly</b></a>
- — :star: 6
+ — :star: 8
 
 > An interactive geophysical flow visualizer in Python.
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2022-01-28</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2022-01-29</a>
 </sub>
 </p>
