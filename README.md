@@ -123,7 +123,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionsthesis"><b>dionhaefner</b> / <b>dionsthesis</b></a>
- — :star: 7
+ — :star: 8
 
 > Custom LaTeX2e documentclass for typesetting beautiful, modern theses.
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2022-04-08</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2022-04-09</a>
 </sub>
 </p>
