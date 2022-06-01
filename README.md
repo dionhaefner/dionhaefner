@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"></a>
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b> / <b>mpi4jax</b></a>
- — :star: 191
+ — :star: 192
 
 > Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
@@ -131,7 +131,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pgfcache"><b>dionhaefner</b> / <b>pgfcache</b></a>
- — :star: 8
+ — :star: 9
 
 > LaTeX package providing a caching solution for PGF figures created with Matplotlib similar to tikz-externalize
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2022-05-31</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2022-06-01</a>
 </sub>
 </p>
