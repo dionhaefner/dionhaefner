@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2023-07-31</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2023-08-01</a>
 </sub>
 </p>
