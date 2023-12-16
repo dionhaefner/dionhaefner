@@ -16,14 +16,15 @@
             "title": "Side projects",
             "repos": [
                 "dionhaefner/pyhpc-benchmarks", 
+                "dionhaefner/yahtzotron",
                 "dionhaefner/dionhaefner.github.io"
             ]
         },
         {
             "title": "Science applications",
             "repos": [
-                "dionhaefner/FOWD", 
-                "dionhaefner/cces-sem-botero"
+                "dionhaefner/rogue-wave-discovery",
+                "dionhaefner/FOWD",
             ]
         },
         {
@@ -32,7 +33,6 @@
             "repos": [
                 "dionhaefner/cv",
                 "dionhaefner/bayesian-histograms",
-                "dionhaefner/yahtzotron",
                 "dionhaefner/dionsthesis", 
                 "dionhaefner/pgfcache", 
                 "dionhaefner/shallow-water", 
