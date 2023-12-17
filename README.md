@@ -56,6 +56,14 @@ Now that you're here, why don't you check out some of my projects?
 
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner/yahtzotron"><b>dionhaefner</b> / <b>yahtzotron</b></a>
+ — :star: 17
+
+> The friendly robot that beats you in Yahtzee  🤖 🎲
+
+
+
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionhaefner.github.io"><b>dionhaefner</b> / <b>dionhaefner.github.io</b></a>
 
 
@@ -72,18 +80,18 @@ Now that you're here, why don't you check out some of my projects?
 
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
-<a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
- — :star: 9
+<a href="https://github.com/dionhaefner/rogue-wave-discovery"><b>dionhaefner</b> / <b>rogue-wave-discovery</b></a>
+ — :star: 8
 
-> Processing framework for FOWD, a free ocean wave dataset, ready for your ML application :ocean:
+> Code for the paper "Machine-Guided Discovery of a Real-World Rogue Wave Model" (Häfner et al., 2023)
 
 
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
-<a href="https://github.com/dionhaefner/cces-sem-botero"><b>dionhaefner</b> / <b>cces-sem-botero</b></a>
+<a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
+ — :star: 9
 
-
-> Python implementation of the Botero et al., 2015 evolutionary tipping point model.
+> Processing framework for FOWD, a free ocean wave dataset, ready for your ML application :ocean:
 
 
 
@@ -110,14 +118,6 @@ Now that you're here, why don't you check out some of my projects?
  — :star: 24
 
 > Bayesian histograms for estimation of binary rare event rates, with fully automated bin pruning :bar_chart:
-
-
-
-<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
-<a href="https://github.com/dionhaefner/yahtzotron"><b>dionhaefner</b> / <b>yahtzotron</b></a>
- — :star: 17
-
-> The friendly robot that beats you in Yahtzee  🤖 🎲
 
 
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2023-12-16</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2023-12-17</a>
 </sub>
 </p>
