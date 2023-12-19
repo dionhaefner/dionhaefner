@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI-GRAS"><img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16"></a>
 <a href="https://github.com/DHI-GRAS/terracotta"><b>DHI-GRAS</b> / <b>terracotta</b></a>
- — :star: 605
+ — :star: 606
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"></a>
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b> / <b>mpi4jax</b></a>
- — :star: 328
+ — :star: 329
 
 > Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
@@ -115,7 +115,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/bayesian-histograms"><b>dionhaefner</b> / <b>bayesian-histograms</b></a>
- — :star: 24
+ — :star: 26
 
 > Bayesian histograms for estimation of binary rare event rates, with fully automated bin pruning :bar_chart:
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2023-12-18</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2023-12-19</a>
 </sub>
 </p>
