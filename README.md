@@ -23,8 +23,8 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/DHI-GRAS"><img src="https://avatars.githubusercontent.com/u/14074266?v=4&s=16" alt="DHI-GRAS" width="16"></a>
-<a href="https://github.com/DHI-GRAS/terracotta"><b>DHI-GRAS</b> / <b>terracotta</b></a>
+<a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
+<a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
  — :star: 626
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"></a>
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b> / <b>mpi4jax</b></a>
- — :star: 342
+ — :star: 343
 
 > Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
@@ -131,9 +131,9 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pgfcache"><b>dionhaefner</b> / <b>pgfcache</b></a>
- — :star: 10
+ — :star: 11
 
-> LaTeX package providing a caching solution for PGF figures created with Matplotlib similar to tikz-externalize
+> LaTeX package for caching of PGF figures created with Matplotlib, just like tikz-externalize
 
 
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-02-19</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-02-20</a>
 </sub>
 </p>
