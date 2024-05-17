@@ -81,7 +81,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/rogue-wave-discovery"><b>dionhaefner</b> / <b>rogue-wave-discovery</b></a>
- — :star: 10
+ — :star: 11
 
 > Code for the paper "Machine-Guided Discovery of a Real-World Rogue Wave Model" (Häfner et al., 2023)
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-05-16</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-05-17</a>
 </sub>
 </p>
