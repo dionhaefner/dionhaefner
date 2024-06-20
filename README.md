@@ -17,7 +17,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"></a>
 <a href="https://github.com/team-ocean/veros"><b>team-ocean</b> / <b>veros</b></a>
- — :star: 310
+ — :star: 311
 
 > The versatile ocean simulator, in pure Python, powered by JAX.
 
@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
 <a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
- — :star: 650
+ — :star: 651
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -139,7 +139,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/shallow-water"><b>dionhaefner</b> / <b>shallow-water</b></a>
- — :star: 10
+ — :star: 11
 
 > Powerful shallow-water implementations in pure Python
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-06-19</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-06-20</a>
 </sub>
 </p>
