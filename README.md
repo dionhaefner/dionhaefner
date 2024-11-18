@@ -115,7 +115,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/bayesian-histograms"><b>dionhaefner</b> / <b>bayesian-histograms</b></a>
- — :star: 27
+ — :star: 28
 
 > Bayesian histograms for estimation of binary rare event rates, with fully automated bin pruning :bar_chart:
 
@@ -123,7 +123,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionsthesis"><b>dionhaefner</b> / <b>dionsthesis</b></a>
- — :star: 8
+ — :star: 9
 
 > Custom LaTeX2e documentclass for typesetting beautiful, modern theses.
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-11-17</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-11-18</a>
 </sub>
 </p>
