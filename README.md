@@ -15,7 +15,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/team-ocean"><img src="https://private-avatars.githubusercontent.com/u/57774860?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODIzODAsIm5iZiI6MTczNDY4MTE4MCwicGF0aCI6Ii91LzU3Nzc0ODYwIn0.EKTKrXFqOFWQxShagy2G6c8gvTvkSfB7r8D54XHQeB0&v=4&s=16" alt="team-ocean" width="16"></a>
+<a href="https://github.com/team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"></a>
 <a href="https://github.com/team-ocean/veros"><b>team-ocean</b> / <b>veros</b></a>
  — :star: 336
 
@@ -23,15 +23,15 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/DHI"><img src="https://private-avatars.githubusercontent.com/u/32934768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5MjAsIm5iZiI6MTczNDY4MTcyMCwicGF0aCI6Ii91LzMyOTM0NzY4In0.Ob0lXJCkb4e0XSmo57aayEv6RjTyn3xBAMhqtk1bqMc&v=4&s=16" alt="DHI" width="16"></a>
+<a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
 <a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
- — :star: 702
+ — :star: 703
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
 
 
-<a href="https://github.com/mpi4jax"><img src="https://private-avatars.githubusercontent.com/u/81360121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI4NjAsIm5iZiI6MTczNDY4MTY2MCwicGF0aCI6Ii91LzgxMzYwMTIxIn0.JiS6rg8ZMKA5gNHgdR58guuV8CNYpVHKUqH0cA2Y32Y&v=4&s=16" alt="mpi4jax" width="16"></a>
+<a href="https://github.com/mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"></a>
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b> / <b>mpi4jax</b></a>
  — :star: 453
 
@@ -47,7 +47,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>dionhaefner</b> / <b>pyhpc-benchmarks</b></a>
  — :star: 314
 
@@ -55,7 +55,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/yahtzotron"><b>dionhaefner</b> / <b>yahtzotron</b></a>
  — :star: 20
 
@@ -63,7 +63,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionhaefner.github.io"><b>dionhaefner</b> / <b>dionhaefner.github.io</b></a>
 
 
@@ -79,7 +79,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/rogue-wave-discovery"><b>dionhaefner</b> / <b>rogue-wave-discovery</b></a>
  — :star: 14
 
@@ -87,7 +87,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
  — :star: 11
 
@@ -105,7 +105,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/cv"><b>dionhaefner</b> / <b>cv</b></a>
  — :star: 4
 
@@ -113,7 +113,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/bayesian-histograms"><b>dionhaefner</b> / <b>bayesian-histograms</b></a>
  — :star: 28
 
@@ -121,7 +121,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionsthesis"><b>dionhaefner</b> / <b>dionsthesis</b></a>
  — :star: 9
 
@@ -129,7 +129,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pgfcache"><b>dionhaefner</b> / <b>pgfcache</b></a>
  — :star: 13
 
@@ -137,7 +137,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/shallow-water"><b>dionhaefner</b> / <b>shallow-water</b></a>
  — :star: 15
 
@@ -145,7 +145,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/attractive"><b>dionhaefner</b> / <b>attractive</b></a>
  — :star: 3
 
@@ -153,7 +153,7 @@ Now that you're here, why don't you check out some of my projects?
 
 
 
-<a href="https://github.com/dionhaefner"><img src="https://private-avatars.githubusercontent.com/u/11994217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI5ODAsIm5iZiI6MTczNDY4MTc4MCwicGF0aCI6Ii91LzExOTk0MjE3In0.b8edUvrRRp5b3nLyv8HX5ZBJTluIsYI2NDXHM5HhTIc&v=4&s=16" alt="dionhaefner" width="16"></a>
+<a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/fly"><b>dionhaefner</b> / <b>fly</b></a>
  — :star: 10
 
@@ -164,6 +164,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-12-20</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2024-12-21</a>
 </sub>
 </p>
