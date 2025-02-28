@@ -8,6 +8,7 @@
             "description": "(bigger projects where I am a core developer)",
             "repos": [
                 "team-ocean/veros", 
+                "pasteurlabs/tesseract-core",
                 "DHI-GRAS/terracotta",
                 "mpi4jax/mpi4jax"
             ]
