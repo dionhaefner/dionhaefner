@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
 <a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
- — :star: 730
+ — :star: 731
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -97,7 +97,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
- — :star: 11
+ — :star: 12
 
 > Processing framework for FOWD, a free ocean wave dataset, ready for your ML application :ocean:
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-05-14</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-05-15</a>
 </sub>
 </p>
