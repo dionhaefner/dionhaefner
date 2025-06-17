@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
 <a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
- — :star: 734
+ — :star: 735
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -65,7 +65,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/yahtzotron"><b>dionhaefner</b> / <b>yahtzotron</b></a>
- — :star: 21
+ — :star: 22
 
 > The friendly robot that beats you in Yahtzee  🤖 🎲
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-06-16</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-06-17</a>
 </sub>
 </p>
