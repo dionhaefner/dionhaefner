@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/pasteurlabs"><img src="https://avatars.githubusercontent.com/u/94583413?v=4&s=16" alt="pasteurlabs" width="16"></a>
 <a href="https://github.com/pasteurlabs/tesseract-core"><b>pasteurlabs</b> / <b>tesseract-core</b></a>
- — :star: 69
+ — :star: 70
 
 > Universal, autodiff-native software components for Simulation Intelligence. 📦
 
@@ -97,7 +97,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/FOWD"><b>dionhaefner</b> / <b>FOWD</b></a>
- — :star: 13
+ — :star: 14
 
 > Processing framework for FOWD, a free ocean wave dataset, ready for your ML application :ocean:
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-08-20</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-08-21</a>
 </sub>
 </p>
