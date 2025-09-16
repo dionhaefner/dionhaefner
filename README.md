@@ -139,7 +139,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pgfcache"><b>dionhaefner</b> / <b>pgfcache</b></a>
- — :star: 13
+ — :star: 12
 
 > LaTeX package for caching of PGF figures created with Matplotlib, just like tikz-externalize
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-09-15</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-09-16</a>
 </sub>
 </p>
