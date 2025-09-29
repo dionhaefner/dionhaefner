@@ -57,7 +57,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>dionhaefner</b> / <b>pyhpc-benchmarks</b></a>
- — :star: 331
+ — :star: 332
 
 > A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python :rocket:
 
@@ -73,7 +73,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionhaefner.github.io"><b>dionhaefner</b> / <b>dionhaefner.github.io</b></a>
-
+ — :star: 2
 
 > Repository for my personal homepage, hosted on GitHub Pages, created with Pelican.
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-09-28</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-09-29</a>
 </sub>
 </p>
