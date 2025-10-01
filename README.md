@@ -17,7 +17,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"></a>
 <a href="https://github.com/team-ocean/veros"><b>team-ocean</b> / <b>veros</b></a>
- — :star: 369
+ — :star: 370
 
 > The versatile ocean simulator, in pure Python, powered by JAX.
 
@@ -123,7 +123,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/bayesian-histograms"><b>dionhaefner</b> / <b>bayesian-histograms</b></a>
- — :star: 28
+ — :star: 29
 
 > Bayesian histograms for estimation of binary rare event rates, with fully automated bin pruning :bar_chart:
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-09-30</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-10-01</a>
 </sub>
 </p>
