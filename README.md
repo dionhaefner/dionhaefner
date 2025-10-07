@@ -17,7 +17,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"></a>
 <a href="https://github.com/team-ocean/veros"><b>team-ocean</b> / <b>veros</b></a>
- — :star: 370
+ — :star: 371
 
 > The versatile ocean simulator, in pure Python, powered by JAX.
 
@@ -73,7 +73,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionhaefner.github.io"><b>dionhaefner</b> / <b>dionhaefner.github.io</b></a>
- — :star: 2
+
 
 > Repository for my personal homepage, hosted on GitHub Pages, created with Pelican.
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-10-06</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2025-10-07</a>
 </sub>
 </p>
