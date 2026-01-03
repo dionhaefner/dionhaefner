@@ -17,7 +17,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/team-ocean"><img src="https://avatars.githubusercontent.com/u/57774860?v=4&s=16" alt="team-ocean" width="16"></a>
 <a href="https://github.com/team-ocean/veros"><b>team-ocean</b> / <b>veros</b></a>
- — :star: 379
+ — :star: 380
 
 > The versatile ocean simulator, in pure Python, powered by JAX.
 
@@ -41,7 +41,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/mpi4jax"><img src="https://avatars.githubusercontent.com/u/81360121?v=4&s=16" alt="mpi4jax" width="16"></a>
 <a href="https://github.com/mpi4jax/mpi4jax"><b>mpi4jax</b> / <b>mpi4jax</b></a>
- — :star: 507
+ — :star: 508
 
 > Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python :zap:
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-01-02</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-01-03</a>
 </sub>
 </p>
