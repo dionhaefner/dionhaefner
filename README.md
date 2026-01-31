@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/pasteurlabs"><img src="https://avatars.githubusercontent.com/u/94583413?v=4&s=16" alt="pasteurlabs" width="16"></a>
 <a href="https://github.com/pasteurlabs/tesseract-core"><b>pasteurlabs</b> / <b>tesseract-core</b></a>
- — :star: 89
+ — :star: 91
 
 > Universal, autodiff-native software components for Simulation Intelligence. 📦
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-01-30</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-01-31</a>
 </sub>
 </p>
