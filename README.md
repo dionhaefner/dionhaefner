@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
 <a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
- — :star: 754
+ — :star: 753
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -57,7 +57,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/pyhpc-benchmarks"><b>dionhaefner</b> / <b>pyhpc-benchmarks</b></a>
- — :star: 336
+ — :star: 335
 
 > A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python :rocket:
 
@@ -131,7 +131,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionsthesis"><b>dionhaefner</b> / <b>dionsthesis</b></a>
- — :star: 12
+ — :star: 13
 
 > Custom LaTeX2e documentclass for typesetting beautiful, modern theses.
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-04-14</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-04-15</a>
 </sub>
 </p>
