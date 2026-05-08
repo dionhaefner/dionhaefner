@@ -25,9 +25,9 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/pasteurlabs"><img src="https://avatars.githubusercontent.com/u/94583413?v=4&s=16" alt="pasteurlabs" width="16"></a>
 <a href="https://github.com/pasteurlabs/tesseract-core"><b>pasteurlabs</b> / <b>tesseract-core</b></a>
- — :star: 100
+ — :star: 101
 
-> Universal, autodiff-native software components for Simulation Intelligence. 📦
+> Universal components for differentiable scientific computing. :package:
 
 
 
@@ -131,7 +131,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/dionhaefner"><img src="https://avatars.githubusercontent.com/u/11994217?v=4&s=16" alt="dionhaefner" width="16"></a>
 <a href="https://github.com/dionhaefner/dionsthesis"><b>dionhaefner</b> / <b>dionsthesis</b></a>
- — :star: 13
+ — :star: 12
 
 > Custom LaTeX2e documentclass for typesetting beautiful, modern theses.
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-05-07</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-05-08</a>
 </sub>
 </p>
