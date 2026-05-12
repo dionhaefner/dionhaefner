@@ -4,4 +4,4 @@ idna==3.3
 Jinja2==3.1.6
 MarkupSafe==2.1.0
 requests==2.33.0
-urllib3==1.26.19
+urllib3==2.7.0
