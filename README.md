@@ -25,7 +25,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/pasteurlabs"><img src="https://avatars.githubusercontent.com/u/94583413?v=4&s=16" alt="pasteurlabs" width="16"></a>
 <a href="https://github.com/pasteurlabs/tesseract-core"><b>pasteurlabs</b> / <b>tesseract-core</b></a>
- — :star: 140
+ — :star: 141
 
 > Universal components for differentiable scientific computing. :package:
 
@@ -33,7 +33,7 @@ Now that you're here, why don't you check out some of my projects?
 
 <a href="https://github.com/DHI"><img src="https://avatars.githubusercontent.com/u/32934768?v=4&s=16" alt="DHI" width="16"></a>
 <a href="https://github.com/DHI/terracotta"><b>DHI</b> / <b>terracotta</b></a>
- — :star: 756
+ — :star: 757
 
 > A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 
@@ -172,6 +172,6 @@ Now that you're here, why don't you check out some of my projects?
 
 <p align="right">
 <sub>
-<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-11-16</a>
+<a href="https://github.com/dionhaefner/dionhaefner">Last updated 2026-11-17</a>
 </sub>
 </p>
